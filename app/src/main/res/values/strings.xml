@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inter DCR</string>
+    <string name="Product_prompt">Product Group</string>
+
+    <string-array name="product_arrays">
+
+    </string-array>
+
+
+</resources>
